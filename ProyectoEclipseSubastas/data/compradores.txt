@@ -1,0 +1,2 @@
+Juan Pérez,Calle Principal 123,juanperez@example.com
+María Rodríguez,Avenida Central 456,mariarodriguez@example.com

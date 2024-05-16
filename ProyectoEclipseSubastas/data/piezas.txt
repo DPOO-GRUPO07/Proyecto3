@@ -1,0 +1,5 @@
+El pensador,1902,Auguste Rodin, "París", "Museo Rodin",8000000,true, "Escultura", false, 180, 98, 137, "Bronce",200, false, "Representa a un hombre en meditación profunda."
+David,-1504,Miguel Ángel, "Florencia", "Galería de la Academia",100000000,false, "Escultura", false, 517, 199, 114, "Mármol", 5600, false, "Famosa escultura de un joven bíblico antes de su enfrentamiento con Goliat."
+La piedad,1499,Miguel Ángel, "Roma", "Basílica de San Pedro",80000000,false, "Escultura", false, 174, 195, 85, "Mármol", 6000, false, "Representa a la Virgen María sosteniendo el cuerpo de Jesucristo después de la crucifixión."
+El beso,1889,Auguste Rodin, "París", "Museo Rodin",12000000,true,"Escultura",true,181,112, 117, "Mármol", 3500, false, "Escultura que representa a Paolo y Francesca, personajes de la Divina Comedia de Dante."
+asdf;5204;asdf;asdf;fasd;8740000;true;Escultura;false;80;40;60;sadf;40;false;asdf asdf
