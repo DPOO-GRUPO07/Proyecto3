@@ -51,6 +51,36 @@ public class Cliente implements Usuario {
 	public Integer setMaximo(int maximo) {
 		return maximo;
 	}
+
+
+	public int getMaximoCompras() {
+		return maximoCompras;
+	}
+
+
+	public void setMaximoCompras(int maximoCompras) {
+		this.maximoCompras = maximoCompras;
+	}
+
+
+	public void setUsuario(String usuario) {
+		this.usuario = usuario;
+	}
+
+
+	public void setContrasena(String contrasena) {
+		this.contrasena = contrasena;
+	}
+
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+
+	public void setValidado(boolean validado) {
+		this.validado = validado;
+	}
 	
    
 }

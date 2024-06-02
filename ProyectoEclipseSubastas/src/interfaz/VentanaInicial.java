@@ -19,6 +19,7 @@ import javax.swing.SwingUtilities;
 import controller.BaseDatosEmpresa;
 import controller.BaseDatosGaleria;
 import controller.BaseDatosInventario;
+import interfaz.Cliente.LoginFrame;
 import model.Usuario;
 //import interfaz.VentanaPrincipal;
 import view.Interfaz;
@@ -32,6 +33,8 @@ public class VentanaInicial extends JFrame {
     private JButton empleadoButton;
     private JButton administradorButton;
     private JButton salirButton;
+    
+    private LoginFrame loginFrame;
 	
 	
 	public void setDatosEmpresa(BaseDatosEmpresa datos) {
@@ -73,7 +76,8 @@ public class VentanaInicial extends JFrame {
 
         clienteButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(VentanaInicial.this, "Funcionalidad de Cliente no implementada", "Advertencia", JOptionPane.WARNING_MESSAGE);
+                loginFrame = new LoginFrame();
+                loginFrame.setVisible(true);
             }
         });
 
