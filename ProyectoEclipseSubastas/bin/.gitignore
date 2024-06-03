@@ -1,3 +1,7 @@
 /interfaz/
 /model/
 /controller/
+/.gitignore
+/pieza/
+/pruebas/
+/view/
